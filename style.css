@@ -1,0 +1,20 @@
+@media (min-width: 320px) and (max-width: 480px) { /* Mobile Devices Size */
+    div {
+        background-color: #3e8fb0;
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) { /* iPads & Tablets Size */
+    div {
+        background-color: #3e8fb0;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) { /* Small Screens & Laptops Size */
+    div {
+        background-color: #3e8fb0;
+        font-size: 18px;
+    }
+}
